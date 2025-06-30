@@ -1,4 +1,4 @@
-# D3D9-Menu-Cheat-Pointblank-Zepetto
+# Intercept-D3DMenu-PBZ25
 
 A Direct3D9-based cheat menu for Point Blank (Zepetto IDN Server) with features like ESP, crosshair customization, and anti-kick functionality.
 
