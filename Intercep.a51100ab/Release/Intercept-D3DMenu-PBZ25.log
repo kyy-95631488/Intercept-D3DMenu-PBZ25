@@ -1,0 +1,8 @@
+﻿  D3DMenu.cpp
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  11 of 183 functions ( 6.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Intercept-D3DMenu-PBZ25.vcxproj -> E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\Release\Intercept-D3DMenu-PBZ25.dll

@@ -1,0 +1,67 @@
+﻿  ConsoleAnimation.cpp
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\ConsoleAnimation.cpp(33,25): error C3861: 'time': identifier not found
+  D3DMenu.cpp
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(226,9): error C2660: 'D3DMenu::DrawTextW': function does not take 6 arguments
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(98,15):
+      see declaration of 'D3DMenu::DrawTextW'
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(226,9):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9, const char *, int, int, DWORD, bool)'
+  
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(279,5): error C2660: 'D3DMenu::DrawTextW': function does not take 6 arguments
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(98,15):
+      see declaration of 'D3DMenu::DrawTextW'
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(279,5):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9, const char *, int, int, DWORD, bool)'
+  
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(316,13): error C2660: 'D3DMenu::DrawTextW': function does not take 6 arguments
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(98,15):
+      see declaration of 'D3DMenu::DrawTextW'
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(316,13):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9, const _Elem *, int, int, DWORD, bool)'
+          with
+          [
+              _Elem=char
+          ]
+  
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(323,5): error C2660: 'D3DMenu::DrawTextW': function does not take 6 arguments
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(98,15):
+      see declaration of 'D3DMenu::DrawTextW'
+      E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\D3DMenu.cpp(323,5):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9, const _Elem *, int, int, D3DCOLOR, bool)'
+          with
+          [
+              _Elem=char
+          ]
+  
+  GameHacks.cpp
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(7,17): error C2485: '__declspec(identifier)' is not a recognized extended attribute
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(8,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(9,9): error C2065: 'mov': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(9,13): error C2146: syntax error: missing ';' before identifier 'al'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(9,13): error C2065: 'al': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'test'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(10,9): error C2065: 'test': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(10,14): error C2146: syntax error: missing ';' before identifier 'al'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(10,14): error C2065: 'al': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(10,18): error C2065: 'al': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'je'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(11,9): error C2065: 'je': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(11,12): error C2146: syntax error: missing ';' before identifier 'continueRecoilPatch'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(11,12): error C2065: 'continueRecoilPatch': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'jmp'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(12,9): error C2065: 'jmp': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'recoilJumpBack'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'continueRecoilPatch'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(15,9): error C2065: 'jmp': undeclared identifier
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(15,13): error C2146: syntax error: missing ';' before identifier 'recoilJumpCondition'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(16,5): error C2143: syntax error: missing ';' before '}'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(27,38): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(27,38): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(27,29): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(58,38): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(58,38): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(58,29): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+E:\CODING\MENTOR\Intercept-D3DMenu-PBZ25\GameHacks.cpp(114,31): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+  Hooking.cpp
+  Logging.cpp
+  main.cpp
